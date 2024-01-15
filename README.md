@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yomeceatatu
+- 👀 I’m interested in machine learning, LLM.
+- 🌱 I’m currently learning CUDA and C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: yomeceatatu@tutanota.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: Flute player. 
